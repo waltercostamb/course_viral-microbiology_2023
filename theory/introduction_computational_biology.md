@@ -9,3 +9,5 @@ Go to youtube, and watch videos about Sanger and High-throughput or Next Generat
 It is your job as a scientist to be able to discern good and bad quality material. In this course, you will practise and develop this ability. Material produced by Universities, research centers or trustworthy newspapers are usually good. However, even in these cases you should always apply your own judgement. When in doubt, ask colleagues or more experienced people. After watching the videos, summarize what you learned to your teacher and discuss important topics with them, including any unclear topics.
 
 Prof. Manolis Kellis course on Computational Biology: https://ocw.mit.edu/ans7870/6/6.047/f15/MIT6_047F15_Compiled.pdf
+
+EC-SEQ: https://www.ecseq.com/support/ngs/getting-started-with-ngs-data-analysis-overview
