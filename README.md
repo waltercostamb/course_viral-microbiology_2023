@@ -1,6 +1,6 @@
-# Advanced Module "Viral Microbiology"
+# Advanced Module "Viral Microbiology": Part B
 
-This repository contains information about the advanced module "Viral Microbiology" of the Masters program in Microbiology of the Friedrich-Schiller University of Jena. The first version of this module contains two parts: wet and dry lab. Each part is consisted of 60 hours work to be completed in two weeks. Theory will be covered in the morning and practice in the afternoon. This repository contains information regarding the second part. In the dry lab, we will focus on Computational Biology/Bioinformatics applied to bacteriophages. The following topics will be covered:  
+This repository contains information about Part B of the advanced module "Viral Microbiology" of the Masters program in Microbiology of the Friedrich-Schiller University of Jena. The module "Viral Microbiology" is divided into two parts: A, wet lab and B, dry lab. Part B is consisted of 60 hours work to be completed in two weeks. Theory will be covered in the morning and practice in the afternoon. We will focus on Computational Biology/Bioinformatics applied to bacteriophages. The following topics will be covered:  
 
 - Introduction to Computational Biology/Bioinformatics
 - Documentation and Lab Book
@@ -23,5 +23,5 @@ At the end of this module the student should be able to:
 
 The evaluation of the student will be based on:
 
-- Quality of bioinformatics analysis in terms of reproducibility (Lab Book and commented scripts): 50%
+- Quality of computational analysis and reproducibility (Lab Book and commented scripts): 50%
 - Presentation of the final project (50%)
