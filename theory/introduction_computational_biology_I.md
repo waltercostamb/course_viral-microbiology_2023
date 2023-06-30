@@ -12,3 +12,5 @@ It is your job as a scientist to be able to discern good and bad quality materia
 - Basic steps for nanopore sequencing
 - What is the output of the nanopore?
 - How to interprete FASTQ format?
+
+EC-SEQ: https://www.ecseq.com/support/ngs/getting-started-with-ngs-data-analysis-overview ?
