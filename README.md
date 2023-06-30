@@ -9,19 +9,18 @@ This repository contains information about Part B of the advanced module "Viral 
 - Sequence assembly
 - Identification of phages
 - Sequence annotation
-- Finding potential hosts for bacteriophages
 
 At the end of this module the student should be able to:
 
+- know basic concepts about computational biology
 - assemble bacteriophage genome sequences from raw data;
 - identify bacteriophages;
 - annotate the genomes;
-- find potential hosts;
-- analyze and interprete bacteriophage genomic data;
-- document your work in a reproduceable way;
+- document dry lab work in a reproduceable way;
 - present a cross-disciplinary scientific project.
 
 The evaluation of the student will be based on:
 
-- Quality of computational analysis and reproducibility (Lab Book and commented scripts): 50%
+- Wet lab activities (to be defined by the wet lab teachers): 25%
+- Dry lab: quality of documentation and reproducibility (Lab Book and commented scripts): 25%
 - Presentation of the final project (50%)
