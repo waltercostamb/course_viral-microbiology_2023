@@ -1,4 +1,4 @@
-# Introduction to Computational Biology
+# Introduction to Computational Biology I
 
 Read the following articles discussing the concepts of computational biology: https://en.wikipedia.org/wiki/Computational_biology and data analysis applied to biology: https://waltercostamb.github.io/blog/2020/04/07/data-analysis-python Make sure to understand what is computational biology, why is it important, ethical implications for computational analysis and how the human genome project influenced the 20th century technological development. Afterwards, discuss with your teacher what you learned, including what is the difference between Bioinformatics and Computational Biology. What are the roles of biologists and computer scientists in this research area? How can they collaborate? 
 
