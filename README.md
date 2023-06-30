@@ -22,5 +22,5 @@ At the end of this module the student should be able to:
 The evaluation of the student will be based on:
 
 - Wet lab activities (to be defined by the wet lab teachers): 25%
-- Dry lab: quality of documentation and reproducibility (Lab Book and commented scripts): 25%
-- Presentation of the final project (50%)
+- Dry lab: quality of documentation and reproducibility of experiments as seen in the student's Lab Book, which should contain commented scripts and summary of discussions with the teacher: 25%
+- Presentation of the final project: 50%
