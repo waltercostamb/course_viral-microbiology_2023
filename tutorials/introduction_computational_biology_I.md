@@ -1,6 +1,6 @@
 # Introduction to Computational Biology II
 
-Read the following articles discussing the concepts of computational biology: https://en.wikipedia.org/wiki/Computational_biology and data analysis applied to biology: https://waltercostamb.github.io/blog/2020/04/07/data-analysis-python Make sure to understand the following topics:
+Read the following articles discussing the concepts of computational biology: https://en.wikipedia.org/wiki/Computational_biology and data analysis applied to biology: https://waltercostamb.github.io/blog/2020/04/07/data-analysis-python Watch the following video for a small introduction: https://www.youtube.com/watch?v=W-Ov2cUaYQY Make sure to understand the following topics:
 
 - What is computational biology?
 - Why is it important?
