@@ -1,6 +1,6 @@
 # Program for module "Viral Microbiology": Part B
 
-Part B of this module consists of 60h. 30h will be covered each week, with attendance between 9h30 to 12h30 and 13h to 16h.  
+Part B of this module consists of 60h. 30h will be covered each week, with attendance between 9h30 to 12h30 and 13h to 16h. If not otherwise indicated by the teacher, theory will be covered in the mornings and practice in the afternoons.  
 
 | MON | TUE | WED | THU | FRI |
 | -------- | --------  | --------- | --------- | --------- |
