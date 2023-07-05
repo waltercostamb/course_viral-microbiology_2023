@@ -9,15 +9,15 @@ Read the following articles discussing the concepts of computational biology: ht
 
 Afterwards, discuss with your teacher what you learned, including what is the difference between Bioinformatics and Computational Biology. What are the roles of biologists and computer scientists in this research area? How can they collaborate? 
 
-Explore the following wiki to learn about sequencing: https://en.wikipedia.org/wiki/DNA_sequencing Tips: skip "Basic methods", read the introduction,some of the applications,
-history and "High-throughput methods", but skip specific methods.
+Explore the following wiki to learn about sequencing: https://en.wikipedia.org/wiki/DNA_sequencing Tips: skip "Basic methods", read the introduction, some of the applications, history and "High-throughput methods", but skip specific methods.
 
-Go to youtube, and watch videos about Sanger and High-throughput or Next Generation Sequencing. Choose the material well. Information is available online in bulk. 
-It is your job as a scientist to be able to discern good and bad quality material. In this course, you will practise and develop this ability. Material produced by Universities, research centers or trustworthy newspapers are usually good. However, even in these cases you should always apply your own judgement. When in doubt, ask colleagues or more experienced people. After watching the videos, summarize what you learned to your teacher and discuss important topics with them, including any unclear topics. Make sure to understand the following topics about sequencing:
+Go to youtube, and watch videos about High-throughput or Next Generation Sequencing. Choose the material well. Information is available online in bulk. It is your job as a scientist to be able to discern good and bad quality material. In this course, you will practise and develop this ability. Material produced by Universities, research centers or trustworthy newspapers are usually good. However, even in these cases you should always apply your own judgement. When in doubt, ask colleagues or more experienced people. After watching the videos, summarize what you learned to your teacher and discuss important topics with them, including any unclear topics. Make sure to understand the following topics about sequencing:
 
 - Basic principles of DNA sequencing
-- Basic steps for nanopore sequencing
-- What is the output of the nanopore?
-- How to interprete FASTQ format?
+- Basic steps for nanopore sequencing 
+- What is the output of nanopore?
+- How to interpret FASTQ format?
 
-EC-SEQ: https://www.ecseq.com/support/ngs/getting-started-with-ngs-data-analysis-overview ?
+Extra links:  
+- Nanopore sequencing (1,30 min video): https://www.youtube.com/watch?v=RcP85JHLmnI
+- EC-SEQ: https://www.ecseq.com/support/ngs/getting-started-with-ngs-data-analysis-overview 
