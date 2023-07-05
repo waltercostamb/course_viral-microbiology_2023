@@ -1,5 +1,13 @@
 # Assembly I
 
+Bash commands:
+- pwd
+- cd
+- mkdir
+- vim
+- Convert FASTQ to FASTA on the command line: https://www.ecseq.com/support/ngs-snippets/convert-fastq-to-fasta-on-the-command-line
+- ssh/scp
+
 Reading material:
 
 - How are base qualities calculated and stored? https://www.ecseq.com/support/ngs/how-are-base-qualities-calculated-and-stored
