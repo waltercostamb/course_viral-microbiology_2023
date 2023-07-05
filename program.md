@@ -1,6 +1,6 @@
 # Program for module "Viral Microbiology": Part B
 
-Part B of this module consists of 60h. 30h will be covered each week, with attendance between 9h30 to 12h30 and 13h to 16h. If not otherwise indicated by the teacher, theory will be covered in the mornings and practice in the afternoons.  
+Part B of this module consists of 60h. 30h will be covered each week, with attendance between 9h30 to 12h30 and 13h to 16h. If not otherwise indicated by the teacher, theory will be covered in the mornings and practice in the afternoons. The theoretical part will be composed of a series of questions for you to research and answer from 9h30 to 12h. At 12h you will present your findings to your teacher and discuss important topics. In the afternoon, at 13h30, the teacher will go over the tasks for the day with you, and and help you with setting up the system. Afterwards you will run tools and do the analysis. At 15h30 discuss the advances with your teacher. In any point of time, if you run into problems, inform your teacher.      
 
 | MON | TUE | WED | THU | FRI |
 | -------- | --------  | --------- | --------- | --------- |
