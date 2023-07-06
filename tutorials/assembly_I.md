@@ -7,6 +7,3 @@ Read about assembly in Prof. Manolis Kellis's book (pages 93 to 98): https://ocw
 ## Practice
 
 Use Metaspades to assemble the sequences: https://cab.spbu.ru/software/meta-spades/.  
-
-Afterwards, if there is time, evaluate the assembly with checkV: https://bitbucket.org/berkeleylab/checkv/src/master/. 
-Is the assemble complete or fragmented?
