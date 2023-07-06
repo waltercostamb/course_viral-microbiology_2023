@@ -13,7 +13,7 @@ Here is indicated some extra study material with topics that are relevant to Par
 - "Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners": https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/
 
 ## Next Generation Sequencing
-- https://www.ecseq.com/support/ngs/getting-started-with-ngs-data-analysis-overview
+- "Getting started with NGS data analysis: An overview": https://www.ecseq.com/support/ngs/getting-started-with-ngs-data-analysis-overview
  
 ## Lower priority topics
 - Git (version control): https://www.atlassian.com/git/tutorials/what-is-version-control
