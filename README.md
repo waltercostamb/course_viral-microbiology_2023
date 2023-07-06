@@ -11,7 +11,7 @@ At the end of this module the student should be able to:
 
 - know basic concepts of Computational Biology
 - assemble bacteriophage genome sequences from raw data;
-- identify bacteriophages;
+- classify bacteriophages;
 - annotate genomes;
 - document dry lab work in a reproduceable way;
 - present a cross-disciplinary scientific project.
