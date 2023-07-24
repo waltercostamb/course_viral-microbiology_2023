@@ -4,7 +4,7 @@ This repository contains information about Part B of the advanced module "Viral 
 - Introduction to Computational Biology
 - Documentation and Lab Book
 - Sequence assembly
-- Identification of phages
+- Classification of phages
 - Sequence annotation
 
 At the end of this module the student should be able to:
