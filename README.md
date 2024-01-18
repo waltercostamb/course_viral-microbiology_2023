@@ -1,4 +1,4 @@
-# Advanced Module "Viral Microbiology": Part B
+# Advanced Module "Viral Microbiology": Part B 2023
 
 This repository contains information about Part B of the advanced module "Viral Microbiology". The module is part of the Masters program in Microbiology of the Friedrich-Schiller University of Jena. The module "Viral Microbiology" is divided into two parts: A, wet lab and B, dry lab. Part B is consisted of 60 hours dry lab work to be completed in two weeks. Theory will be covered in the mornings and practice in the afternoons. We will focus on Computational Biology/Bioinformatics applied to bacteriophages. The following topics will be covered:  
 
