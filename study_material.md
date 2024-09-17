@@ -11,6 +11,8 @@ It is not expected that you fully understand all of the material. The idea is fo
 ## Bash
 - "Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners". Read until the following topic (including it): "How to Get Started with Bash Scripting - Running Bash commands from the command line": https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/ 
 
+- Cheat sheet: https://github.com/RehanSaeed/Bash-Cheat-Sheet
+
 ## Optional reading
 
 ### Next Generation Sequencing
